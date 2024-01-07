@@ -12,3 +12,6 @@ https://github.com/FannyCandy/11_Note_Taker
 
 ## Heroku URL
 https://note-taker-231012-2647a19e22b4.herokuapp.com/
+
+## Credit/Resources used
+NU BootCamp curriculum
