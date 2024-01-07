@@ -7,7 +7,8 @@ This application can be used to write and save notes, use an Express.js back end
 ![](./image/Screenshot_Homepage.png)
 ![](./image/Screenshot_Notes.png)
 
-## GitHub Link
+## GitHub Repo
 https://github.com/FannyCandy/11_Note_Taker
 
-## Heroku Link
+## Heroku URL
+https://note-taker-231012-2647a19e22b4.herokuapp.com/
